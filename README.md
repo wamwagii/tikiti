@@ -1,4 +1,4 @@
-# 🎫 Tikiti Kenya - Event Ticketing Platform
+# 🎫 Tikiti - Event Ticketing Platform
 
 [![Laravel Version](https://img.shields.io/badge/Laravel-13.x-red.svg)](https://laravel.com)
 [![Filament Version](https://img.shields.io/badge/Filament-5.x-purple.svg)](https://filamentphp.com)
